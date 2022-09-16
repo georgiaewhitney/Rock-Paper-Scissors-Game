@@ -1,5 +1,4 @@
-// Import stylesheets
-import './style.css';
+
 
 // get user choice
 // get computer choice by assigning random number
